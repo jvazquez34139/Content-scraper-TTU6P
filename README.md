@@ -3,8 +3,9 @@ Web scraping project
 
 To start the app
 
-npm install
-npm start
+$ npm install
+
+$ npm start
 
 
 This app extracts the Title, Price, ImageURL, URL, and Time from
