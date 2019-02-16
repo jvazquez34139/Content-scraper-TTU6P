@@ -1,0 +1,23 @@
+{
+  "name": "content-scraper-ttu6p",
+  "version": "1.0.0",
+  "description": "web crawler/ content scraper",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "jquery",
+    "scraper",
+    "csv"
+  ],
+  "author": "Jose Vazquez",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^4.3.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
